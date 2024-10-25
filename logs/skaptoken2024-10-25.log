@@ -1,0 +1,277 @@
+
+2024-10-25 00:10:51 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255658309890"} 
+2024-10-25 00:10:51 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 00:11:05 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255658309890"} 
+2024-10-25 00:11:05 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 00:11:45 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255763309890"} 
+2024-10-25 00:11:45 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 00:12:58 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255658309890"} 
+2024-10-25 00:12:58 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 00:13:23 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255658309890"} 
+2024-10-25 00:13:23 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 00:14:45 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255658309890"} 
+2024-10-25 00:14:45 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 00:15:06 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255658309890"} 
+2024-10-25 00:15:06 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 02:12:29 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255744918997"} 
+2024-10-25 02:12:29 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 02:12:44 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255744918997"} 
+2024-10-25 02:12:44 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 02:12:58 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255744918997"} 
+2024-10-25 02:12:58 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 02:14:34 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255744918997"} 
+2024-10-25 02:14:34 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 02:15:05 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255746720163"} 
+2024-10-25 02:15:05 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 03:54:59 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255763412842"} 
+2024-10-25 03:54:59 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 03:55:34 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255763412842"} 
+2024-10-25 03:55:34 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 03:55:49 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255763412842"} 
+2024-10-25 03:55:49 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 03:56:00 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255763412842"} 
+2024-10-25 03:56:00 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 03:56:50 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255763412842"} 
+2024-10-25 03:56:50 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 03:57:03 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255763412842"} 
+2024-10-25 03:57:03 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 03:57:06 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255763412842"} 
+2024-10-25 03:57:06 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 03:57:08 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255763412842"} 
+2024-10-25 03:57:08 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 03:57:21 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255763412842"} 
+2024-10-25 03:57:21 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 03:57:32 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255763412842"} 
+2024-10-25 03:57:32 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 03:58:11 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255763412842"} 
+2024-10-25 03:58:11 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 03:58:18 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255763412842"} 
+2024-10-25 03:58:18 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 03:58:50 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255763412842"} 
+2024-10-25 03:58:50 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 03:58:56 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255763412842"} 
+2024-10-25 03:58:56 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 04:03:02 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255763412842"} 
+2024-10-25 04:03:02 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 04:04:10 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255623352026"} 
+2024-10-25 04:04:10 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 04:04:36 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255623352026"} 
+2024-10-25 04:04:36 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 04:05:10 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255763412842"} 
+2024-10-25 04:05:10 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 04:07:49 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255763412842"} 
+2024-10-25 04:07:49 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 04:08:09 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255763412842"} 
+2024-10-25 04:08:09 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 04:08:23 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255763412842"} 
+2024-10-25 04:08:23 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 04:09:14 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255763412842"} 
+2024-10-25 04:09:14 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 04:50:02 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255744435731"} 
+2024-10-25 04:50:02 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 05:41:25 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255742581944"} 
+2024-10-25 05:41:25 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 05:41:28 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255742581944"} 
+2024-10-25 05:41:28 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 05:41:41 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255742581944"} 
+2024-10-25 05:41:41 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 05:42:25 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255742581944"} 
+2024-10-25 05:42:25 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 05:42:29 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255742581944"} 
+2024-10-25 05:42:29 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 06:00:37 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255756886828"} 
+2024-10-25 06:00:37 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 06:00:48 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255756886828"} 
+2024-10-25 06:00:48 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 06:00:54 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255756886828"} 
+2024-10-25 06:00:54 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 06:18:38 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255769867643"} 
+2024-10-25 06:18:38 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 06:18:48 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255762261576"} 
+2024-10-25 06:18:48 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 06:19:11 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255762261576"} 
+2024-10-25 06:19:11 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 06:19:16 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255762261576"} 
+2024-10-25 06:19:16 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 06:19:41 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255769867643"} 
+2024-10-25 06:19:41 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 06:19:56 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255769867643"} 
+2024-10-25 06:19:56 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 06:20:07 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"+255769867643"} 
+2024-10-25 06:20:07 Response :
+ {"status":"422","statusDesc":"Invalid Phone Number"} 
+2024-10-25 06:20:33 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255769867643"} 
+2024-10-25 06:20:33 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 06:20:40 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255769867643"} 
+2024-10-25 06:20:40 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 06:37:20 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255755826999"} 
+2024-10-25 06:37:20 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 06:37:31 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255755826999"} 
+2024-10-25 06:37:31 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 06:43:01 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255763412842"} 
+2024-10-25 06:43:01 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 06:43:08 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255763412842"} 
+2024-10-25 06:43:08 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 07:41:19 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255755002715"} 
+2024-10-25 07:41:19 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 07:41:32 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255755002715"} 
+2024-10-25 07:41:32 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 07:42:22 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255755002715"} 
+2024-10-25 07:42:22 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 07:43:29 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255755002715"} 
+2024-10-25 07:43:29 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 08:00:49 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255698081962"} 
+2024-10-25 08:00:49 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 08:22:17 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255744811751"} 
+2024-10-25 08:22:17 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 08:26:18 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255777666618"} 
+2024-10-25 08:26:18 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 08:26:29 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255777666618"} 
+2024-10-25 08:26:29 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 08:27:13 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255777666618"} 
+2024-10-25 08:27:13 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 08:33:00 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255717836112"} 
+2024-10-25 08:33:00 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 08:33:06 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255717836112"} 
+2024-10-25 08:33:06 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 08:45:27 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255657067147"} 
+2024-10-25 08:45:27 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 
+2024-10-25 08:45:38 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","msisdn":"255657067147"} 
+2024-10-25 08:45:38 Response :
+ {"status":"422","statusDesc":"Innsuficient SMS Balance"} 

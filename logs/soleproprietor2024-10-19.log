@@ -1,0 +1,5 @@
+
+2024-10-19 19:17:15 Incoming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","company_name":"KALEKELA IHOK","nature_of_business":"KILIMO NA UFUGAJI","capital":"Tsh 20,000 -> Tsh 1,000,000","tin_number":"Tz352","shareholders":[],"address_of_business":"Kigoma","registration_ticket":"V23LH6ZD4MMG9C","brella_fees":"95000","professional_fees":"500000","total":"595000.00","phone_number":"255695096221"} 
+2024-10-19 19:17:15 Response :
+ {"status":"201","statusDesc":"success"} 

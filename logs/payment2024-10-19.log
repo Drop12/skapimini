@@ -1,0 +1,19 @@
+
+2024-10-19 03:41:24 Incomming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","phone_number":"255745533932","service":"Kuwasiliana","duration":"DAY","amount":"2000"} 
+2024-10-19 06:41:28 Push Amount :
+ 2000 
+2024-10-19 06:41:28 Response :
+ {"status":"200","message":"success","result":true} 
+2024-10-19 07:32:55 Incomming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","phone_number":"255710792929","service":"Kuwasiliana","duration":"DAY","amount":"2000"} 
+2024-10-19 10:32:58 Push Amount :
+ 2000 
+2024-10-19 10:32:58 Response :
+ {"status":"200","message":"success","result":true} 
+2024-10-19 07:36:55 Incomming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","phone_number":"255710792929","service":"Kuwasiliana","duration":"DAY","amount":"2000"} 
+2024-10-19 10:36:58 Push Amount :
+ 2000 
+2024-10-19 10:36:58 Response :
+ {"status":"200","message":"success","result":true} 

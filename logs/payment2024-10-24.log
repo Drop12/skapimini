@@ -1,0 +1,13 @@
+
+2024-10-24 10:18:47 Incomming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","phone_number":"255712419999","service":"Kuwasiliana","duration":"DAY","amount":"2000"} 
+2024-10-24 13:18:50 Push Amount :
+ 2000 
+2024-10-24 13:18:50 Response :
+ {"status":"200","message":"success","result":true} 
+2024-10-24 15:38:33 Incomming Request :
+ {"api_key":"YTc4YWY3ZWVlZWViODU3YTY5ODUzNTA4ZGU3YzVhYzM1NTdjNjM1MWEyYzA1ODU1ZDhlqA12AjkP0qNTc4ZjU3N2QwMDVmMw==","phone_number":"255768342387","service":"Kuwasiliana","duration":"DAY","amount":"5000"} 
+2024-10-24 18:38:37 Push Amount :
+ 5000 
+2024-10-24 18:38:37 Response :
+ {"status":"200","message":"success","result":true} 
